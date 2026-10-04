@@ -57,6 +57,19 @@ export const experiences: Experience[] = [
     ],
     stack: ['React', 'Node.js', 'AWS', 'REST APIs', 'Jest'],
   },
+  {
+    company: 'ArrayU Digital Content Private Limited',
+    role: 'Software Engineer — Full-Stack Developer',
+    period: 'Jul 2021 — May 2024',
+    location: 'India',
+    summary: 'Spent nearly three years building a social audio product end-to-end, with ownership across frontend, backend, product features and engineering architecture.',
+    highlights: [
+      'Built a social audio platform supporting 60-second audio with images, comments, feeds, hashtags, categories and playlists.',
+      'Developed notifications, campaigns and CMS tooling across frontend and backend.',
+      'Worked on LLD, system design, testing and end-to-end feature delivery while mentoring 4–5 junior developers.',
+    ],
+    stack: ['React', 'Node.js', 'JavaScript', 'REST APIs', 'System Design'],
+  },
 ]
 
 export const projects: Project[] = [
@@ -85,7 +98,7 @@ export const projects: Project[] = [
   },
   {
     title: 'Social Audio Product',
-    eyebrow: 'Independent Product · 3+ years',
+    eyebrow: 'ArrayU Digital Content · 3+ years',
     description: 'A social audio experience for short-form audio with images, comments, feeds, hashtags, playlists, notifications and CMS tooling, with end-to-end product ownership.',
     impact: 'Product ownership from UI to architecture',
     stack: ['React', 'Node.js', 'APIs', 'System Design'],
