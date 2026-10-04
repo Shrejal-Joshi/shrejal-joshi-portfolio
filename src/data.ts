@@ -45,7 +45,7 @@ export const experiences: Experience[] = [
     stack: ['React', 'Node.js', 'TypeScript', 'SQL', 'GCP Pub/Sub'],
   },
   {
-    company: 'Coforge',
+    company: 'Coforge ltd.',
     role: 'Software Engineer II — Full-Stack Developer',
     period: 'Aug 2024 — Dec 2025',
     location: 'India',
@@ -58,7 +58,7 @@ export const experiences: Experience[] = [
     stack: ['React', 'Node.js', 'AWS', 'REST APIs', 'Jest'],
   },
   {
-    company: 'ArrayU Digital Content Private Limited',
+    company: 'Arre U Digital Content Private Limited',
     role: 'Software Engineer — Full-Stack Developer',
     period: 'Jul 2021 — May 2024',
     location: 'India',
@@ -101,12 +101,12 @@ export const projects: Project[] = [
     eyebrow: 'ArrayU Digital Content · 3+ years',
     description: 'A social audio experience for short-form audio with images, comments, feeds, hashtags, playlists, notifications and CMS tooling, with end-to-end product ownership.',
     impact: 'Product ownership from UI to architecture',
-    stack: ['React', 'Node.js', 'APIs', 'System Design'],
+    stack: ['React', 'Node.js', 'APIs', 'System Design', 'Tailwind CSS', 'Sass'],
   },
 ]
 
 export const skillGroups = [
-  { title: 'Frontend', items: ['React', 'TypeScript', 'JavaScript', 'Next.js', 'Redux', 'Zustand', 'React Query', 'TanStack Table', 'HTML', 'CSS'] },
-  { title: 'Backend & Cloud', items: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Microservices', 'AWS', 'GCP', 'Redis', 'SQL', 'DynamoDB'] },
+  { title: 'Frontend', items: ['React', 'TypeScript', 'JavaScript', 'Next.js', 'Redux', 'Zustand', 'React Query', 'TanStack Table', 'HTML', 'CSS', 'Sass', 'Tailwind CSS'] },
+  { title: 'Backend & Cloud', items: ['Node.js', 'REST APIs', 'GraphQL', 'Apollo', 'Macroservices', 'AWS', 'Google Cloud Pub/Sub', 'Redis', 'SQL', 'DynamoDB'] },
   { title: 'Engineering', items: ['Jest', 'React Testing Library', 'Git', 'GitHub Actions', 'Jenkins', 'EventBridge', 'SQS', 'Pub/Sub', 'API Design', 'System Design'] },
 ]

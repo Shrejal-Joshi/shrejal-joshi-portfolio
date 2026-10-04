@@ -100,7 +100,7 @@ function App() {
             </div>
             <div className="hero-meta">
               <span><MapPin size={14} /> Bengaluru, India</span>
-              <span><Code2 size={14} /> 4+ years building web products</span>
+              <span><Code2 size={14} /> 5+ years building web products</span>
             </div>
           </div>
 
