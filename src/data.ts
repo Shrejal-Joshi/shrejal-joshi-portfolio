@@ -19,8 +19,8 @@ export type Project = {
 
 export const experiences: Experience[] = [
   {
-    company: 'HCL',
-    role: 'Software Engineer',
+    company: 'HCL Software',
+    role: 'Senior Software Engineer',
     period: '2026 — Present',
     location: 'Bengaluru, India',
     summary: 'Building configurable enterprise experiences where product teams can create and manage application UI without repeatedly changing source code.',

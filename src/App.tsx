@@ -96,7 +96,7 @@ function App() {
             <p className="hero-text">I’m Shrejal — a React, TypeScript and Node.js engineer who turns complex product requirements into clean, configurable and reliable digital experiences.</p>
             <div className="hero-actions">
               <button className="button primary" onClick={() => scrollTo('work')}>Explore my work <ArrowDownRight size={17} /></button>
-              <a className="button ghost" href="mailto:shrejalj10@gmail.com">Let’s talk <ArrowUpRight size={17} /></a>
+              <a className="button ghost" href="mailto:shrejaljoshi1998@gmail.com">Let’s talk <ArrowUpRight size={17} /></a>
             </div>
             <div className="hero-meta">
               <span><MapPin size={14} /> Bengaluru, India</span>
@@ -170,9 +170,9 @@ function App() {
           <div className="contact-card">
             <div><div className="section-label">05 — CONTACT</div><h2>Have a product worth<br /><span>building well?</span></h2><p>I’m open to interesting engineering problems, product collaborations and conversations about building better software.</p></div>
             <div className="contact-actions">
-              <a className="button primary" href="mailto:shrejalj10@gmail.com"><Mail size={17} /> shrejalj10@gmail.com</a>
+              <a className="button primary" href="mailto:shrejaljoshi1998@gmail.com"><Mail size={17} /> shrejaljoshi1998@gmail.com</a>
               <a className="social-link" href="https://github.com/Shrejal-Joshi" target="_blank" rel="noreferrer"><Github size={18} /> GitHub <ExternalLink size={14} /></a>
-              <a className="social-link" href="https://www.linkedin.com/in/shrejal-joshi/" target="_blank" rel="noreferrer"><ExternalLink size={18} /> LinkedIn</a>
+              <a className="social-link" href="https://www.linkedin.com/in/shrejal-joshi-057644177/" target="_blank" rel="noreferrer"><ExternalLink size={18} /> LinkedIn</a>
             </div>
           </div>
         </section>
